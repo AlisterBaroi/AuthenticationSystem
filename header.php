@@ -11,7 +11,8 @@ COPYRIGHT ALISTER ANIMESH BAROI -->
 		<title>	</title>
 		<link rel="stylesheet" href="css/all.css">
 		<link rel="stylesheet" href="css/bootstrap.min.css">
-
+		
+		<script src="js/all.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/jquery-3.2.1.slim.min.js"></script>
 		<script src="js/popper.min.js"></script>
