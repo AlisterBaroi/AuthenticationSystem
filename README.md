@@ -4,14 +4,9 @@
 -------------------------------------------------------------------------------------------------------
 This project is made mainly to showcase my skills on making Authentication Systems with login, signup and forget password functionality.
 
-All the languages, fremework and libraries that are used in this project are:
-
-Language        Fraameworks       Libraries
---------------------------------------------------
-HTML
-CSS             Bootstrap     Font Awesome Icons
-JavaScript      jQuery
-PHP
+ALL Languages, Fraameworks And Libraries Used In This Project:
+--------------------------------------------------------------
+HTML, CSS(Bootstrap, Font Awesome Icons), JavaScript(jQuery) and PHP.
 
 Things you need to know to preview this project:
 -------------------------------------------------
