@@ -32,7 +32,10 @@
 ?>
 <br>
 <form class="col-lg-3 p-3 m-auto bg-light border rounded border-info" action="" method="post">
-	<div class="p-3">
+	<div class="form-group d-flex justify-content-center pt-1 mb-0">
+		<i class="fas fa-at fa-7x text-info"></i>
+	</div>
+	<div class="p-3 mt-0">
 		<h1 class="text-center text-dark">Enter Email</h1>
 	</div>
 	<div class="form-group px-1">
