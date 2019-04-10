@@ -36,7 +36,7 @@ COPYRIGHT ALISTER ANIMESH BAROI -->
 <br>
 <form class="col-md-3 p-3 m-auto border bg-light rounded border-info" action="" method="post">
 	<div class="form-group d-flex justify-content-center pt-1 mb-0">
-		<i class="fas fa-sign-in-alt fa-5x text-info"></i>
+		<i class="fas fa-sign-in-alt fa-7x text-info"></i>
 	</div>
 	<div class="pb-2 mt-0">
 		<h1 class="text-center text-dark">Sign Up</h1>
