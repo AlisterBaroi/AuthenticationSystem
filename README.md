@@ -1,13 +1,13 @@
 # AuthenticationSystem
 
-<-- This project is made by me, Alister Animesh Baroi, who reserves the coryright of this project. -->
+This project is made by me, Alister Animesh Baroi, who reserves the coryright of this project.
 -------------------------------------------------------------------------------------------------------
 This project is made mainly to showcase my skills on making Authentication Systems with login, signup and forget password functionality.
 
-ALL the languages and frameworks that are user In this project:
+Languages and frameworks that are user in this project:
 --------------------------------------------------------------
 | Languages  | Frameworks | Libraries    |
-| ---------- | ---------- | -------------|
+| :--------: | :--------: | :----------: |
 | HTML       |            |              |
 | CSS        | Bootstrap  | Font Awesome |
 | JavaScript |   jQuery   |              |  
